@@ -1,7 +1,9 @@
-# e1integradora_algoritmos
+# E1. Actividad Integradora 1
 
 Elit Shadday Acosta Pastrana - A00834393
+
 María Andrea Lira Ortega - A0027574
+
 Bernardo Torres Arvizu - A01285304
 
 ---
